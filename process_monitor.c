@@ -36,3 +36,7 @@ int main() {
     mostrar_uso_memoria();
     return 0;
 }
+
+printf("=== Monitor de Procesos del Sistema ===\n");
+printf("Versión: 2.0 -- Conflictiva --\n");
+

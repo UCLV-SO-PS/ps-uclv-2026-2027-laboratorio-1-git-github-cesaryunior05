@@ -29,5 +29,5 @@ int main() {
 }
 
 printf("=== Monitor de Procesos del Sistema ===\n");
-printf("Versión: 1.1 - Estable\n");
+printf("Versión: 2.0 -- Conflictiva --\n");
 
